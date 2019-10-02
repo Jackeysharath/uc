@@ -32,6 +32,7 @@ class ProfileController extends Controller
     }
 
     /**
+     * hi test commeny
      * Change the password
      *
      * @param  \App\Http\Requests\PasswordRequest  $request
